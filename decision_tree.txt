@@ -1,9 +1,9 @@
-|--- os_Mac OS X True0.14.6 <= False.50
+|--- os_detail_Mac OS X True0.14.6 <= False.50
 |   |--- country_BR <= False.50
 |   |   |--- country_IE <= False.50
 |   |   |   |--- country_RO <= False.50
 |   |   |   |   |--- country_NO <= False.50
-|   |   |   |   |   |--- os_Chrome OS 5978.98.0 <= False.50
+|   |   |   |   |   |--- os_detail_Chrome OS 5978.98.0 <= False.50
 |   |   |   |   |   |   |--- country_GB <= False.50
 |   |   |   |   |   |   |   |--- country_JP <= False.50
 |   |   |   |   |   |   |   |   |--- country_CA <= False.50
@@ -15,31 +15,31 @@
 |   |   |   |   |   |   |   |   |   |--- country_PK >  False.50
 |   |   |   |   |   |   |   |   |   |   |--- class: True.0
 |   |   |   |   |   |   |   |   |--- country_CA >  False.50
-|   |   |   |   |   |   |   |   |   |--- os_Chromecast True.52.251747 <= False.50
+|   |   |   |   |   |   |   |   |   |--- os_detail_Chromecast True.52.251747 <= False.50
 |   |   |   |   |   |   |   |   |   |   |--- ip_address_encoded <= True530075736.00
 |   |   |   |   |   |   |   |   |   |   |   |--- class: True.0
 |   |   |   |   |   |   |   |   |   |   |--- ip_address_encoded >  True530075736.00
 |   |   |   |   |   |   |   |   |   |   |   |--- class: False.0
-|   |   |   |   |   |   |   |   |   |--- os_Chromecast True.52.251747 >  False.50
+|   |   |   |   |   |   |   |   |   |--- os_detail_Chromecast True.52.251747 >  False.50
 |   |   |   |   |   |   |   |   |   |   |--- class: True.0
 |   |   |   |   |   |   |   |--- country_JP >  False.50
 |   |   |   |   |   |   |   |   |--- class: True.0
 |   |   |   |   |   |   |--- country_GB >  False.50
-|   |   |   |   |   |   |   |--- os_Mac OS X True0.8.4 <= False.50
-|   |   |   |   |   |   |   |   |--- os_Chrome OS True1316.123.0 <= False.50
-|   |   |   |   |   |   |   |   |   |--- os_Chromecast True.54.250118 <= False.50
-|   |   |   |   |   |   |   |   |   |   |--- os_Chrome OS True2105.100.0 <= False.50
+|   |   |   |   |   |   |   |--- os_detail_Mac OS X True0.8.4 <= False.50
+|   |   |   |   |   |   |   |   |--- os_detail_Chrome OS True1316.123.0 <= False.50
+|   |   |   |   |   |   |   |   |   |--- os_detail_Chromecast True.54.250118 <= False.50
+|   |   |   |   |   |   |   |   |   |   |--- os_detail_Chrome OS True2105.100.0 <= False.50
 |   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth True2
-|   |   |   |   |   |   |   |   |   |   |--- os_Chrome OS True2105.100.0 >  False.50
+|   |   |   |   |   |   |   |   |   |   |--- os_detail_Chrome OS True2105.100.0 >  False.50
 |   |   |   |   |   |   |   |   |   |   |   |--- class: True.0
-|   |   |   |   |   |   |   |   |   |--- os_Chromecast True.54.250118 >  False.50
+|   |   |   |   |   |   |   |   |   |--- os_detail_Chromecast True.54.250118 >  False.50
 |   |   |   |   |   |   |   |   |   |   |--- class: False.0
-|   |   |   |   |   |   |   |   |--- os_Chrome OS True1316.123.0 >  False.50
+|   |   |   |   |   |   |   |   |--- os_detail_Chrome OS True1316.123.0 >  False.50
 |   |   |   |   |   |   |   |   |   |--- asn <= 46480.00
 |   |   |   |   |   |   |   |   |   |   |--- class: True.0
 |   |   |   |   |   |   |   |   |   |--- asn >  46480.00
 |   |   |   |   |   |   |   |   |   |   |--- class: False.0
-|   |   |   |   |   |   |   |--- os_Mac OS X True0.8.4 >  False.50
+|   |   |   |   |   |   |   |--- os_detail_Mac OS X True0.8.4 >  False.50
 |   |   |   |   |   |   |   |   |--- asn <= True24510.00
 |   |   |   |   |   |   |   |   |   |--- class: True.0
 |   |   |   |   |   |   |   |   |--- asn >  True24510.00
@@ -47,7 +47,7 @@
 |   |   |   |   |   |   |   |   |   |   |--- class: False.0
 |   |   |   |   |   |   |   |   |   |--- ip_address_encoded >  True475286272.00
 |   |   |   |   |   |   |   |   |   |   |--- class: False.0
-|   |   |   |   |   |--- os_Chrome OS 5978.98.0 >  False.50
+|   |   |   |   |   |--- os_detail_Chrome OS 5978.98.0 >  False.50
 |   |   |   |   |   |   |--- country_DE <= False.50
 |   |   |   |   |   |   |   |--- country_NZ <= False.50
 |   |   |   |   |   |   |   |   |--- country_ID <= False.50
@@ -89,28 +89,28 @@
 |   |   |   |   |   |   |   |   |--- ip_address_encoded >  3179811840.00
 |   |   |   |   |   |   |   |   |   |--- class: True.0
 |   |   |   |   |--- country_NO >  False.50
-|   |   |   |   |   |--- os_Slackware  <= False.50
-|   |   |   |   |   |   |--- os_Chrome OS True3729.29.0 <= False.50
-|   |   |   |   |   |   |   |--- os_Mac OS X True0.11.5 <= False.50
-|   |   |   |   |   |   |   |   |--- os_Chrome OS True3421.23.0 <= False.50
-|   |   |   |   |   |   |   |   |   |--- os_Mac OS X True0.6.2 <= False.50
-|   |   |   |   |   |   |   |   |   |   |--- os_Chrome OS True1151.100.0 <= False.50
+|   |   |   |   |   |--- os_detail_Slackware  <= False.50
+|   |   |   |   |   |   |--- os_detail_Chrome OS True3729.29.0 <= False.50
+|   |   |   |   |   |   |   |--- os_detail_Mac OS X True0.11.5 <= False.50
+|   |   |   |   |   |   |   |   |--- os_detail_Chrome OS True3421.23.0 <= False.50
+|   |   |   |   |   |   |   |   |   |--- os_detail_Mac OS X True0.6.2 <= False.50
+|   |   |   |   |   |   |   |   |   |   |--- os_detail_Chrome OS True1151.100.0 <= False.50
 |   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 54
-|   |   |   |   |   |   |   |   |   |   |--- os_Chrome OS True1151.100.0 >  False.50
+|   |   |   |   |   |   |   |   |   |   |--- os_detail_Chrome OS True1151.100.0 >  False.50
 |   |   |   |   |   |   |   |   |   |   |   |--- class: False.0
-|   |   |   |   |   |   |   |   |   |--- os_Mac OS X True0.6.2 >  False.50
+|   |   |   |   |   |   |   |   |   |--- os_detail_Mac OS X True0.6.2 >  False.50
 |   |   |   |   |   |   |   |   |   |   |--- ip_address_encoded <= True701461952.00
 |   |   |   |   |   |   |   |   |   |   |   |--- class: False.0
 |   |   |   |   |   |   |   |   |   |   |--- ip_address_encoded >  True701461952.00
 |   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
-|   |   |   |   |   |   |   |   |--- os_Chrome OS True3421.23.0 >  False.50
+|   |   |   |   |   |   |   |   |--- os_detail_Chrome OS True3421.23.0 >  False.50
 |   |   |   |   |   |   |   |   |   |--- class: True.0
-|   |   |   |   |   |   |   |--- os_Mac OS X True0.11.5 >  False.50
+|   |   |   |   |   |   |   |--- os_detail_Mac OS X True0.11.5 >  False.50
 |   |   |   |   |   |   |   |   |--- asn <= 23996.50
 |   |   |   |   |   |   |   |   |   |--- class: False.0
 |   |   |   |   |   |   |   |   |--- asn >  23996.50
 |   |   |   |   |   |   |   |   |   |--- class: True.0
-|   |   |   |   |   |   |--- os_Chrome OS True3729.29.0 >  False.50
+|   |   |   |   |   |   |--- os_detail_Chrome OS True3729.29.0 >  False.50
 |   |   |   |   |   |   |   |--- asn <= True2068.50
 |   |   |   |   |   |   |   |   |--- class: True.0
 |   |   |   |   |   |   |   |--- asn >  True2068.50
@@ -127,39 +127,39 @@
 |   |   |   |   |   |   |   |   |   |   |   |--- class: True.0
 |   |   |   |   |   |   |   |   |   |   |--- ip_address_encoded >  3125790464.00
 |   |   |   |   |   |   |   |   |   |   |   |--- class: False.0
-|   |   |   |   |   |--- os_Slackware  >  False.50
+|   |   |   |   |   |--- os_detail_Slackware  >  False.50
 |   |   |   |   |   |   |--- class: True.0
 |   |   |   |--- country_RO >  False.50
-|   |   |   |   |--- os_Mac OS X True1.6.3 <= False.50
+|   |   |   |   |--- os_detail_Mac OS X True1.6.3 <= False.50
 |   |   |   |   |   |--- class: False.0
-|   |   |   |   |--- os_Mac OS X True1.6.3 >  False.50
+|   |   |   |   |--- os_detail_Mac OS X True1.6.3 >  False.50
 |   |   |   |   |   |--- class: False.0
 |   |   |--- country_IE >  False.50
 |   |   |   |--- class: False.0
 |   |--- country_BR >  False.50
-|   |   |--- os_Chrome OS True2105.100.0 <= False.50
-|   |   |   |--- os_Chrome OS True3020.55.1 <= False.50
-|   |   |   |   |--- os_Chrome OS True3099.30.0 <= False.50
-|   |   |   |   |   |--- os_Chrome OS True1316.123.0 <= False.50
-|   |   |   |   |   |   |--- os_Windows XP <= False.50
-|   |   |   |   |   |   |   |--- os_Chrome OS True3505.73.0 <= False.50
-|   |   |   |   |   |   |   |   |--- os_Chromecast True.36.159268 <= False.50
+|   |   |--- os_detail_Chrome OS True2105.100.0 <= False.50
+|   |   |   |--- os_detail_Chrome OS True3020.55.1 <= False.50
+|   |   |   |   |--- os_detail_Chrome OS True3099.30.0 <= False.50
+|   |   |   |   |   |--- os_detail_Chrome OS True1316.123.0 <= False.50
+|   |   |   |   |   |   |--- os_detail_Windows XP <= False.50
+|   |   |   |   |   |   |   |--- os_detail_Chrome OS True3505.73.0 <= False.50
+|   |   |   |   |   |   |   |   |--- os_detail_Chromecast True.36.159268 <= False.50
 |   |   |   |   |   |   |   |   |   |--- asn <= 36366.50
-|   |   |   |   |   |   |   |   |   |   |--- os_Mac OS X True0.8.4 <= False.50
+|   |   |   |   |   |   |   |   |   |   |--- os_detail_Mac OS X True0.8.4 <= False.50
 |   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth True1
-|   |   |   |   |   |   |   |   |   |   |--- os_Mac OS X True0.8.4 >  False.50
+|   |   |   |   |   |   |   |   |   |   |--- os_detail_Mac OS X True0.8.4 >  False.50
 |   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
 |   |   |   |   |   |   |   |   |   |--- asn >  36366.50
-|   |   |   |   |   |   |   |   |   |   |--- os_Chrome OS True3421.73.0 <= False.50
+|   |   |   |   |   |   |   |   |   |   |--- os_detail_Chrome OS True3421.73.0 <= False.50
 |   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth True2
-|   |   |   |   |   |   |   |   |   |   |--- os_Chrome OS True3421.73.0 >  False.50
+|   |   |   |   |   |   |   |   |   |   |--- os_detail_Chrome OS True3421.73.0 >  False.50
 |   |   |   |   |   |   |   |   |   |   |   |--- class: False.0
-|   |   |   |   |   |   |   |   |--- os_Chromecast True.36.159268 >  False.50
+|   |   |   |   |   |   |   |   |--- os_detail_Chromecast True.36.159268 >  False.50
 |   |   |   |   |   |   |   |   |   |--- asn <= 26192.00
 |   |   |   |   |   |   |   |   |   |   |--- class: True.0
 |   |   |   |   |   |   |   |   |   |--- asn >  26192.00
 |   |   |   |   |   |   |   |   |   |   |--- class: False.0
-|   |   |   |   |   |   |   |--- os_Chrome OS True3505.73.0 >  False.50
+|   |   |   |   |   |   |   |--- os_detail_Chrome OS True3505.73.0 >  False.50
 |   |   |   |   |   |   |   |   |--- asn <= 500181.50
 |   |   |   |   |   |   |   |   |   |--- asn <= True58693.50
 |   |   |   |   |   |   |   |   |   |   |--- asn <= 41081.50
@@ -179,12 +179,12 @@
 |   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
 |   |   |   |   |   |   |   |   |   |   |--- ip_address_encoded >  True67910552.00
 |   |   |   |   |   |   |   |   |   |   |   |--- class: False.0
-|   |   |   |   |   |   |--- os_Windows XP >  False.50
+|   |   |   |   |   |   |--- os_detail_Windows XP >  False.50
 |   |   |   |   |   |   |   |--- asn <= 500094.00
 |   |   |   |   |   |   |   |   |--- class: True.0
 |   |   |   |   |   |   |   |--- asn >  500094.00
 |   |   |   |   |   |   |   |   |--- class: False.0
-|   |   |   |   |   |--- os_Chrome OS True1316.123.0 >  False.50
+|   |   |   |   |   |--- os_detail_Chrome OS True1316.123.0 >  False.50
 |   |   |   |   |   |   |--- asn <= 500181.50
 |   |   |   |   |   |   |   |--- asn <= 264606.50
 |   |   |   |   |   |   |   |   |--- asn <= 45794.00
@@ -216,7 +216,7 @@
 |   |   |   |   |   |   |   |   |   |   |   |--- class: False.0
 |   |   |   |   |   |   |--- asn >  500181.50
 |   |   |   |   |   |   |   |--- class: False.0
-|   |   |   |   |--- os_Chrome OS True3099.30.0 >  False.50
+|   |   |   |   |--- os_detail_Chrome OS True3099.30.0 >  False.50
 |   |   |   |   |   |--- ip_address_encoded <= True67815424.00
 |   |   |   |   |   |   |--- class: True.0
 |   |   |   |   |   |--- ip_address_encoded >  True67815424.00
@@ -251,9 +251,9 @@
 |   |   |   |   |   |   |   |   |   |--- class: False.0
 |   |   |   |   |   |   |   |   |--- ip_address_encoded >  True67877648.00
 |   |   |   |   |   |   |   |   |   |--- class: True.0
-|   |   |   |--- os_Chrome OS True3020.55.1 >  False.50
+|   |   |   |--- os_detail_Chrome OS True3020.55.1 >  False.50
 |   |   |   |   |--- class: False.0
-|   |   |--- os_Chrome OS True2105.100.0 >  False.50
+|   |   |--- os_detail_Chrome OS True2105.100.0 >  False.50
 |   |   |   |--- asn <= 265848.50
 |   |   |   |   |--- ip_address_encoded <= 3139387008.00
 |   |   |   |   |   |--- asn <= 263858.50
@@ -312,7 +312,7 @@
 |   |   |   |   |   |   |   |--- class: True.0
 |   |   |   |   |   |--- ip_address_encoded >  True512725568.00
 |   |   |   |   |   |   |--- class: True.0
-|--- os_Mac OS X True0.14.6 >  False.50
+|--- os_detail_Mac OS X True0.14.6 >  False.50
 |   |--- country_DE <= False.50
 |   |   |--- country_RU <= False.50
 |   |   |   |--- country_US <= False.50
