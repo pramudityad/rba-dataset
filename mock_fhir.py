@@ -3,7 +3,7 @@ class MockFHIRClient:
     def __init__(self):
         self.dummy_patient_data = {
             "resourceType": "Patient",
-            "id": "example_patient_id",
+            "id": "123",
             "name": [{"use": "official", "family": "Doe", "given": ["John"]}],
             "gender": "male",
             "birthDate": "1990-01-01"
